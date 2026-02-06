@@ -51,17 +51,18 @@ namespace Branching_Assignment_Submission
                             await Task.Delay(3000);
 
                             // Calculate the package size (volume)
-                            double package = width * height * length;
+                            double package = width + height + length;
 
                             // Check if package dimensions are within allowed limit
                             if (package <= 50)
                             {
                                 // Calculate total shipping cost
                                 double total = (package * weight) / 100;
+                                decimal dectotal = (decimal)total;
 
                                 // Display final price
                                 Console.WriteLine(
-                                    "Perfect! Your estimated total for shipping this package is: $" + total);
+                                    "Perfect! Your estimated total for shipping this package is: $" + dectotal.ToString("F2"));
                             }
                             else
                             {
