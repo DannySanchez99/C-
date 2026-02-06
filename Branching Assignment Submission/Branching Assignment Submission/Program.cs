@@ -51,7 +51,7 @@ namespace Branching_Assignment_Submission
                             await Task.Delay(3000);
 
                             // Calculate the package size (volume)
-                            double package = width + height + length;
+                            double package = width * height * length;
 
                             // Check if package dimensions are within allowed limit
                             if (package <= 50)
@@ -100,4 +100,5 @@ namespace Branching_Assignment_Submission
             }
         }
     }
+
 }
