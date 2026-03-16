@@ -1,0 +1,12 @@
+C:\Users\danny\source\repos\EF6Console\EF6Console\obj\Debug\EF6Console.csproj.AssemblyReference.cache
+C:\Users\danny\source\repos\EF6Console\EF6Console\obj\Debug\EF6Console.csproj.CoreCompileInputs.cache
+C:\Users\danny\source\repos\EF6Console\EF6Console\bin\Debug\EF6Console.exe.config
+C:\Users\danny\source\repos\EF6Console\EF6Console\bin\Debug\EF6Console.exe
+C:\Users\danny\source\repos\EF6Console\EF6Console\bin\Debug\EF6Console.pdb
+C:\Users\danny\source\repos\EF6Console\EF6Console\bin\Debug\EntityFramework.dll
+C:\Users\danny\source\repos\EF6Console\EF6Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danny\source\repos\EF6Console\EF6Console\bin\Debug\EntityFramework.xml
+C:\Users\danny\source\repos\EF6Console\EF6Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danny\source\repos\EF6Console\EF6Console\obj\Debug\EF6Console.csproj.Up2Date
+C:\Users\danny\source\repos\EF6Console\EF6Console\obj\Debug\EF6Console.exe
+C:\Users\danny\source\repos\EF6Console\EF6Console\obj\Debug\EF6Console.pdb

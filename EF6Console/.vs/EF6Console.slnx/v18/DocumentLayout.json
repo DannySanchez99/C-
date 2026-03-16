@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danny\\source\\repos\\C-\\EF6Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63AF56BC-7992-4848-9122-8216B3AC5889}|EF6Console\\EF6Console.csproj|c:\\users\\danny\\source\\repos\\c-\\ef6console\\ef6console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AF56BC-7992-4848-9122-8216B3AC5889}|EF6Console\\EF6Console.csproj|solutionrelative:ef6console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\C-\\EF6Console\\EF6Console\\Program.cs",
+              "RelativeDocumentMoniker": "EF6Console\\Program.cs",
+              "ToolTip": "C:\\Users\\danny\\source\\repos\\C-\\EF6Console\\EF6Console\\Program.cs",
+              "RelativeToolTip": "EF6Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T16:30:32.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
