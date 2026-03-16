@@ -1,0 +1,23 @@
+@model IEnumerable<dynamic>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>Quote</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var i in Model)
+            {
+                <tr>
+                    <td>@i.FirstName</td>
+                    <td>@i.LastName</td>
+                    <td>@i.EmailAddress</td>
+                    <td>@i.Quote.ToString("C")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
