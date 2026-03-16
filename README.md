@@ -6,8 +6,9 @@ These are some small projects I made using C# and .NET Framework.
 
 PROJECTS:
 
-CAR INSURANCE
-NFL Stats
+CAR INSURANCE |
+
+NFL Stats|
 
 Car Insurance:
 This project is an MVC web application that mimics a car insurance website. 
